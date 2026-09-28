@@ -94,6 +94,8 @@ Desktop and mobile behave differently:
 
 The largest device gap is at the **begin checkout → purchase** step.
 
+![Funnel](funnel.png)
+
 ### 4. Funnel progression differs by channel
 
 - **Direct:** 10.6% of product viewers reach purchase.
